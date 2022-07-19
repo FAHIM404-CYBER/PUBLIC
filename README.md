@@ -31,7 +31,7 @@ CONTACT WITH <a href="https://github.com/FAHIM404-CYBER"><b>FAHIM HOSSEN</a> </b
 <br>
   <a href="https://github.com/FAHIM404-CYBER/termux-style/stargazers/">
   <a href="https://github.com/FAHIM404-CYBER/PUBLIC">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Azim-vau/FAHIM404-CYBER/PUBLIC.svg"/>
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/FAHIM404-CYBER/PUBLIC.svg"/>
   </a>
 <br>
   <a href="https://github.com/FAHIM404-CYBER/PUBLIC">
